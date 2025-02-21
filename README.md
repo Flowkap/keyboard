@@ -1,6 +1,23 @@
-# My Keyboards
+# Content
 
-I'm typing on a slightly modified [Noted](notedhttps://github.com/dariogoetz/noted-layout) layout.
+<!-- TOC -->
+
+- [Content](#content)
+- [My Keyboard Setup](#my-keyboard-setup)
+  - [Layer 1](#layer-1)
+  - [Layer 2](#layer-2)
+  - [Layer 3](#layer-3)
+  - [Layer 4](#layer-4)
+- [My Keyboard(s)](#my-keyboards)
+  - [Keychron Q10 Pro](#keychron-q10-pro)
+  - [Keychron K11 Max](#keychron-k11-max)
+- [Karabiner Elements](#karabiner-elements)
+
+<!-- /TOC -->
+
+# My Keyboard Setup
+
+I'm typing on a slightly modified [Noted](https://github.com/dariogoetz/noted-layout) layout by @dariogoetz. Noted itself is based on https://neo-layout.org/.
 
 Generally I kept all the letters as on notes, omitted changes to the number row and also skipped all dedicated Layer 2 differences resulting in these layouts.
 
@@ -18,7 +35,7 @@ This is just regular layer 1 with Shift in my case
 
 ## Layer 4
 
-wip
+![Layer 4 Layout](noted-hybrid/layer4.png)
 
 # My Keyboard(s)
 
@@ -34,9 +51,14 @@ Very helpful resource is also: https://mechanische-tastaturen.net/qmk-und-via-gu
 
 ## Keychron Q10 Pro
 
-![Keychron Q10 Pro](keyboards/Keychron%20Q10%20Pro/q10.png)
+![Keychron Q10 Pro](keycaps/mounted.jpg)
 
 Layout file: [noted-hybrid/q10-iso.layout.json](noted-hybrid/q10-iso.layout.json)
+
+**Custom Keycaps:**
+
+I made custom keycaps on https://yuzukeycaps.com/c/db0bdf94-f2b2-45e7-a158-573784411107
+
 
 ## Keychron K11 Max
 ![Keychron K11 Max](keyboards/Keychron%20K11%20Max/k11.png)
@@ -46,9 +68,3 @@ Layout file: [noted-hybrid/k11-iso.layout.json](noted-hybrid/k11-iso.layout.json
 # Karabiner Elements
 
 I did fiddle a bit with Karabiner and just configures Layer 1 tbh. Anyway its here: [/Users/fkappes/keyboard/noted-hybrid/karabiner.json](/Users/fkappes/keyboard/noted-hybrid/karabiner.json)
-
-# Custom Keycaps
-
-I made custom keycaps on https://yuzukeycaps.com/ but still waiting for them. Will add images as soon as they're assembled :)
-
-![keycaps](keycaps/image.png)
